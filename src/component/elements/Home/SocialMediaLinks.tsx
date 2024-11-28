@@ -11,7 +11,7 @@ const SocialMediaLinks: React.FC = () => (
     <a href="https://medium.com/@enggardyah57" target="_blank" rel="noopener noreferrer">
       <Icon icon={faMedium} />
     </a>
-    <a href="https://instagram.com/enggardyah_" target="_blank" rel="noopener noreferrer">
+    <a href="https://instagram.com/ezzzmozy_" target="_blank" rel="noopener noreferrer">
       <Icon icon={faInstagram} />
     </a>
   </div>

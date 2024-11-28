@@ -129,13 +129,13 @@ const MyResume: React.FC = () => {
       <div className="mt-6 px-6 sm:px-12">
         <h3 className="text-3xl sm:text-4xl font-semibold mb-4 text-center">Let's Connect</h3>
         <div className="flex justify-center space-x-4 sm:space-x-6">
-          <a href="#" className="text-3xl sm:text-4xl text-seccondary hover:text-opacity-70">
+          <a href="https://id.linkedin.com/in/enggar-dyah-bintang" className="text-3xl sm:text-4xl text-seccondary hover:text-opacity-70" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faLinkedin} />
           </a>
-          <a href="#" className="text-3xl sm:text-4xl text-seccondary hover:text-opacity-70">
+          <a href="https://instagram.com/ezzzmozy_" className="text-3xl sm:text-4xl text-seccondary hover:text-opacity-70" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faInstagram} />
           </a>
-          <a href="#" className="text-3xl sm:text-4xl text-seccondary hover:text-opacity-70">
+          <a href="https://medium.com/@enggardyah57" className="text-3xl sm:text-4xl text-seccondary hover:text-opacity-70" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faMedium} />
           </a>
         </div>
